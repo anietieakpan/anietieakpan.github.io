@@ -1,7 +1,3 @@
-Certainly, I'll integrate the textual diagrams into the main blog post for clarity and visualization. Here's the enhanced blog post with the included textual diagrams:
-
----
-
 # Transforming African Elections with Blockchain Technology
 
 ## Background: The Challenge of Elections in Africa
@@ -40,7 +36,6 @@ To understand how blockchain can revolutionize elections in Africa, it is vital 
 
 ### 1. Voter Registration and Verification
 
-Textual Diagram:
 ```
 +-------------------+      +-----------------------+      +-------------------------+
 | Voters            |      | Blockchain Network  |      | Election Authorities   |
@@ -53,7 +48,6 @@ Textual Diagram:
 
 ### 2. Casting Votes
 
-Textual Diagram:
 ```
 +-------------------+      +-----------------------+
 | Voters            |      | Blockchain Network  |
@@ -65,7 +59,6 @@ Textual Diagram:
 
 ### 3. Vote Counting Process
 
-Textual Diagram:
 ```
 +-------------------+      +-----------------------+      +--------------------------+
 | Election Authorities |      | Blockchain Network  |      | Election Observers      |
@@ -77,7 +70,6 @@ Textual Diagram:
 
 ### Decentralization and Node Verification
 
-Textual Diagram:
 ```
 +--------------------+  +------------------+  +------------------+
 | Blockchain        |  | Blockchain    |  | Blockchain    |
@@ -93,7 +85,6 @@ These textual diagrams provide a simplified representation of the processes and 
 
 ### 4. Tamper-Proof Voting Records
 
-Textual Diagram:
 ```
 +-------------------+      +-----------------------+
 | Voters            |      | Blockchain Network  |
@@ -106,7 +97,6 @@ Textual Diagram:
 
 ### 5. Enhanced Accessibility
 
-Textual Diagram:
 ```
 +-------------------+      +-----------------------+
 | Election Authorities |      | Blockchain Network  |
@@ -120,7 +110,6 @@ Textual Diagram:
 
 ### 6. Transparency for Election Funding
 
-Textual Diagram:
 ```
 +------------------------+     +--------------------------+
 | Political Parties and   |     | Election Authorities     |

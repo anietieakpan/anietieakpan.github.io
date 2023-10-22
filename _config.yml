@@ -1,5 +1,5 @@
-title: Midnight theme
-description: Midnight is a theme for GitHub Pages.
-show_downloads: true
+title: Technology Briefings
+description: A blog about technology and impact on society
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-midnight
